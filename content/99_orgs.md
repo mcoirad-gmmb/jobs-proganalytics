@@ -16,6 +16,8 @@ In addition to the organizations listed below, you can assume that large campaig
 
 * AFL-CIO Analytics Team
 
+* Alloy.us
+
 * Analyst Institute
 
 * 605 (formerly Analytics Media Group)
@@ -34,11 +36,17 @@ In addition to the organizations listed below, you can assume that large campaig
 
 * Minerva Insights
 
+* Stac Labs (staclabs.io)
+
 ### Organizations that Do Analytics
 
 * 270 Strategies
 
 * America Votes
+
+* Another ACRONYM
+
+* Bully Pulpit Interactive
 
 * Catalist (Non-Analytics Team)
 
@@ -49,6 +57,8 @@ In addition to the organizations listed below, you can assume that large campaig
 * Democratic Governor’s Association
 
 * EMILY’s List
+
+* GMMB
 
 * League of Conservation Voters
 
